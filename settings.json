@@ -1,0 +1,13 @@
+{
+  "lang": "en",
+  "ai_index": 1,
+  "theme_color": null,
+  "adblock_enabled": true,
+  "https_only": true,
+  "fingerprint_protection": true,
+  "cookie_isolation": true,
+  "webrtc_blocked": true,
+  "random_headers": true,
+  "clear_on_close": true,
+  "private_mode": true
+}
