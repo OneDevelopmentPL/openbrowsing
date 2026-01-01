@@ -45,7 +45,7 @@ OpenBrowsing is a **privacy-first web browser**, designed to protect users from 
 **Requirements:** Python 3.11+, PyQt6, PyQt6-WebEngine  
 
 ```bash
-git clone https://github.com/YourUsername/OpenBrowsing.git
+git clone https://github.com/OneDevelopmentPL/OpenBrowsing.git
 cd OpenBrowsing
 python -m pip install -r requirements.txt
 python browser.py
@@ -130,7 +130,7 @@ OpenBrowsing to **przeglądarka skupiona na prywatności**, chroniąca przed śl
 Wymagania: Python 3.11+, PyQt6, PyQt6-WebEngine  
 
 ```bash
-git clone https://github.com/YourUsername/OpenBrowsing.git
+git clone https://github.com/OneDevelopmentPL/OpenBrowsing.git
 cd OpenBrowsing
 python -m pip install -r requirements.txt
 python browser.py
